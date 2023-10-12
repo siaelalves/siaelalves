@@ -1,5 +1,5 @@
-- 👋 Eu sou Siael Alves (@siaelalves)
-- 👀 Tenho interesse em programação no geral. Já li sobre HTML, VB.NET, C#, Pascal e PHP.
-- 🌱  Agora estou estudo C++.
+- 👋 WebDesigner e Programador
+- 👀 Trabalho com linguagens voltadas para Web: HTML, CSS, PHP e Javascript.
+- 🌱 Já estudei VB.NET, C#, Pascal, MS-DOS. Tenho interesse em C++, Python, Ajax, JQuery, Lua.
 - 💞️ Vou postar os resultados dos meus estudos e testes aqui. Tenho certeza que será de ajuda para quem estiver começando como eu.
 - 📫 pode me encontrar no meu site https://diariobit.wordpress.com. Pretendo criar uma seção especial para programação.

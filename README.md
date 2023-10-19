@@ -2,4 +2,4 @@
 - 👀 Trabalho com linguagens voltadas para Web: HTML, CSS, PHP e Javascript.
 - 🌱 Já estudei VB.NET, C#, Pascal, MS-DOS. Tenho interesse em C++, Python, Ajax, JQuery, Lua.
 - 💞️ Vou postar os resultados dos meus estudos e testes aqui. Tenho certeza que será de ajuda para quem estiver começando como eu.
-- 📫 pode me encontrar no meu site https://diariobit.wordpress.com. Pretendo criar uma seção especial para programação.
+- 📫 pode me encontrar no meu site https://siaelalvesdecarvalho.wordpress.com.

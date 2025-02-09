@@ -6,12 +6,10 @@
 - 🚩 Atualmente aprendendo NodeJS, React e Python.
 - 🚗 Tenho interesse em C++, Python, Ajax, JQuery, Lua.
 
-💞️ Vou postar os resultados dos meus estudos e testes aqui.
-Tenho certeza que será de ajuda para quem estiver começando como eu.
-
-📫 pode me encontrar no meu site **https://siaelalvesdecarvalho.wordpress.com**.
-
 ## Principais projetos
+
+**Diário Code**: Website que ensina programação, criado do zero.
+Link para o respositório: *indisponível*
 
 **Sitemap PHP**: Gerador de sitemaps em PHP.
 Link para o repositório: https://github.com/siaelalves/sitemap-php
